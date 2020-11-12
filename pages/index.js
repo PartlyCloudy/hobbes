@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Navbar from "../components/navbar";
+import Navbar from "../components/Navbar";
 import Searchbar from "../components/Searchbar";
 import Hobbies from "../components/Hobbies";
 import Guides from "../components/Guides";
