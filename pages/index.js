@@ -16,7 +16,7 @@ export default function Home() {
       <Navbar />
       <div className=" container mx-auto mt-4 ">
         <img
-          class="w-full object-cover h-ht"
+          className="w-full object-cover h-ht"
           src="/photo.jpg"
           alt="Flower and sky"
         />
