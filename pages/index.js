@@ -31,6 +31,8 @@ export default function Home() {
         <h1 className="font-bold text-3xl px-2">HOT GUIDES</h1>
         <hr className="border-t- border-black"></hr>
       </div>
+
+   
       <Guides />
       <Footer />
     </div>

@@ -12,6 +12,12 @@ module.exports = {
       width: {
         wt: "26rem",
       },
+          backgroundImage: {
+      'gaming': "url('/gamingggg.jpg')",
+      'film' : "url('/filmmaking.png')",
+      'climb': "url('/climbing.jpg')",
+
+    },
     },
     variants: {},
     plugins: [],
